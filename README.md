@@ -50,13 +50,8 @@ const kolakolade = {
 }
 ```
 
-<p>
+![kola's github stats](https://github-readme-stats.vercel.app/api?username=kkolade&show_icons=true&icon_color=141414&bg_color=ffffff&hide_border=true&line_height=25&text_color=141414&hide_title=true&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkolade&layout=compact)](https://github.com/kkolade/github-readme-stats)
 
-![kola's github stats](https://github-readme-stats.vercel.app/api?username=kkolade&show_icons=true&icon_color=141414&bg_color=ffffff&hide_border=true&line_height=25&text_color=141414&hide_title=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkolade&layout=compact)](https://github.com/kkolade/github-readme-stats)
-
-</p>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkolade)](https://github.com/kkolade/github-readme-stats)
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm generally available online</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/kkolade/kkolade/discussions/new"><strong> start a discussion here</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
