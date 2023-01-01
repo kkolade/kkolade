@@ -64,6 +64,12 @@ const kolakolade = {
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/kkolade/minimalist-todo-app/pull/2) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
+2. 🗣 Commented on [#2](https://github.com/kkolade/minimalist-todo-app/issues/2) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
+3. 💪 Opened PR [#2](https://github.com/kkolade/minimalist-todo-app/pull/2) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
+4. 🎉 Merged PR [#1](https://github.com/kkolade/minimalist-todo-app/pull/1) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
+5. 💪 Opened PR [#1](https://github.com/kkolade/minimalist-todo-app/pull/1) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
+<!--END_SECTION:activity-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkolade&theme=default)
 
