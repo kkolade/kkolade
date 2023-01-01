@@ -2,7 +2,10 @@
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/kolakolade/kolakolade/master/wave.gif" width="30px">Hi, I'm <a href="https://kolakolade.me">Kola Kolade</a></h1>
 
-<h3 align="left">I help Startups and Small biz to bring their vision to reality, be it a Prototype, MVP or Product ideas. I use Ruby, Ruby-on-rails and JavaScript technologies and frameworks like React.js, Node.js, Next.js, React Native, Typescript etc. I collaborate with cross-cultural teams across multiple regions and time-zones</h3>
+<h3 align="left">I help Startups and Small biz to bring their vision to reality, be it a Prototype, MVP or Product ideas. I use Ruby, Ruby-on-rails and JavaScript technologies and frameworks like:
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React.js%2C+React+Native%2C+Next.js;Node.js%2C+Typescript%2C+etc.)](https://git.io/typing-svg)
+<br> I collaborate with cross-cultural teams across multiple regions and time-zones</h3>
 
 <a target="_blank" href="https://linkedin.com/in/kolakolade/">
 <img src="https://img.shields.io/badge/-kolakolade-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kolakolade/" alt="Linkedin Badge"></a>
@@ -51,7 +54,7 @@ const kolakolade = {
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkolade)](https://github.com/kkolade/github-readme-stats)
 
-<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/kolakolade/kolakolade/discussions/new"><strong> start a discussion here</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
+<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm generally available online</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/kkolade/kkolade/discussions/new"><strong> start a discussion here</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
 
 <a target="_blank" href="https://github.com/kkolade/kkolade/">
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/kolakolade&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="kolakolade's vistors">
@@ -59,5 +62,7 @@ const kolakolade = {
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:activity-->
 
   </details>
