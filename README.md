@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React.js%2C+React+Native%2C+Next.js;Node.js%2C+Typescript%2C+etc.)](https://git.io/typing-svg)
 
-<br> I collaborate with cross-cultural teams across multiple regions and time-zones</h3>
+I collaborate with cross-cultural teams across multiple regions and time-zones</h3>
 
 <a target="_blank" href="https://linkedin.com/in/kolakolade/">
 <img src="https://img.shields.io/badge/-kolakolade-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kolakolade/" alt="Linkedin Badge"></a>
@@ -63,11 +63,11 @@ const kolakolade = {
 
   </details>
 
-  <!--START_SECTION:activity-->
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkolade&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkolade&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kkolade&theme=default)
+
+  <!--START_SECTION:activity-->
 
 1. 🎉 Merged PR [#2](https://github.com/kkolade/minimalist-todo-app/pull/2) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
 2. 🗣 Commented on [#2](https://github.com/kkolade/minimalist-todo-app/issues/2) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
