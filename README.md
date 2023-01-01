@@ -64,6 +64,7 @@ const kolakolade = {
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#2](https://github.com/kkolade/minimalist-todo-app/pull/2) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
 2. 🗣 Commented on [#2](https://github.com/kkolade/minimalist-todo-app/issues/2) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
 3. 💪 Opened PR [#2](https://github.com/kkolade/minimalist-todo-app/pull/2) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
@@ -73,8 +74,6 @@ const kolakolade = {
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkolade&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkolade&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kkolade&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkolade&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kkolade&theme=default)
 
   </details>
