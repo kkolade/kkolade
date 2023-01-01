@@ -2,7 +2,7 @@
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/kolakolade/kolakolade/master/wave.gif" width="30px">Hi, I'm <a href="https://kolakolade.me">Kola Kolade</a></h1>
 
-<h3 align="left">I help Startups and Small biz to bring their vision to reality, be it a Prototype, MVP or Product ideas.</h3>
+<h3 align="left">I help Startups and Small biz to bring their vision to reality, be it a Prototype, MVP or Product ideas. I use Ruby, Ruby-on-rails and JavaScript technologies and frameworks like React.js, Node.js, Next.js, React Native, Typescript etc. I collaborate with cross-cultural teams across multiple regions and time-zones</h3>
 
 <a target="_blank" href="https://linkedin.com/in/kolakolade/">
 <img src="https://img.shields.io/badge/-kolakolade-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kolakolade/" alt="Linkedin Badge"></a>
