@@ -67,4 +67,10 @@ const kolakolade = {
 
 <!--START_SECTION:activity-->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkolade&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkolade&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kkolade&theme=default)
+
   </details>
