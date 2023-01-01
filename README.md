@@ -10,11 +10,8 @@
 <a target="_blank" href="https://twitter.com/kola_kolade">
 <img src="https://img.shields.io/badge/kola_kolade-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/kola_kolade" alt="Twitter Badge"></a>
 
-<!-- <a target="_blank" href="https://instagram.com/kolakolade/">
-<img src="https://img.shields.io/badge/-kolakolade-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/kolakolade/" alt="Instagram Badge"></a>
-
-<a target="_blank" href="https://behance.net/kolakolade/">
-<img src="https://img.shields.io/badge/-kolakolade-141414?style=for-the-badge&logo=Behance&logoColor=white&link=https://behance.net/kolakolade" alt="Behance Badge"></a> -->
+<a target="_blank" href="https://instagram.com/kolakolade__/">
+<img src="https://img.shields.io/badge/-kolakolade-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/kolakolade__/" alt="Instagram Badge"></a>
 <br>
 
 <br>
@@ -29,13 +26,17 @@ const kolakolade = {
   availableForHire: true,
   education: "someCollege",
   otherAlias: "Full Stack Developer",
-  codesIn: ["Javascript", "HTML", "CSS", "Ruby", "Bash", "Ruby", "Ruby-on-Rails", "React", "Docker"],
+  codesIn: ["Javascript", "HTML", "CSS", "Bash", "Ruby", "Ruby-on-Rails", "React", "Docker"],
   currentlylearning: ["React Native", "TailwindCss", "Next.Js"],
   toolsUsing: ["Sass", "AWS", "Wordpress", "Firebase", "Figma", "Gulp", "Webpack"],
   experiences: [
     {
       company : "SprintplexLimited",
       post : "Co-Founder | CTO"
+    },
+    {
+      company : "ProteuxLimited",
+      post : "Co-Founder | CEO"
     },
     {
       company : "Open to Opportunity", "Open to Employment"
