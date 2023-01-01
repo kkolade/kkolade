@@ -53,6 +53,8 @@ const kolakolade = {
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/kolakolade&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="kolakolade's vistors">
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkolade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
