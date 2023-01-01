@@ -4,7 +4,9 @@
 
 <h3 align="left">I help Startups and Small biz to bring their vision to reality, be it a Prototype, MVP or Product ideas. I use Ruby, Ruby-on-rails and JavaScript technologies and frameworks like:
 <br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React.js%2C+React+Native%2C+Next.js;Node.js%2C+Typescript%2C+etc.)](https://git.io/typing-svg)
+
 <br> I collaborate with cross-cultural teams across multiple regions and time-zones</h3>
 
 <a target="_blank" href="https://linkedin.com/in/kolakolade/">
