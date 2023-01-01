@@ -53,7 +53,7 @@ const kolakolade = {
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/kolakolade/kolakolade/discussions/new"><strong> start a discussion here</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
 
-<a target="_blank" href="https://github.com/kolakolade/kolakolade/">
+<a target="_blank" href="https://github.com/kkolade/kkolade/">
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/kolakolade&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="kolakolade's vistors">
 </a>
 
