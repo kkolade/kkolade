@@ -61,6 +61,16 @@ const kolakolade = {
 </a>
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   3 hrs 15 mins   ████████████▓░░░░░░░░░░░░   51.19 %
+Markdown     1 hr 58 mins    ███████▓░░░░░░░░░░░░░░░░░   30.95 %
+HTML         54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+```
+
 <!--END_SECTION:waka-->
 
   </details>
