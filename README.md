@@ -76,8 +76,6 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-  </details>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkolade&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkolade&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kkolade&theme=default)
@@ -90,6 +88,8 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 4. 🎉 Merged PR [#1](https://github.com/kkolade/minimalist-todo-app/pull/1) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
 5. 💪 Opened PR [#1](https://github.com/kkolade/minimalist-todo-app/pull/1) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
 <!--END_SECTION:activity-->
+
+  </details>
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm generally available online</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/kkolade/kkolade/discussions/new"><strong> start a discussion here</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
 
