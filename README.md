@@ -56,12 +56,9 @@ const kolakolade = {
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkolade)](https://github.com/kkolade/github-readme-stats)
 
-<a target="_blank" href="https://github.com/kkolade/kkolade/">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/kolakolade&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="kolakolade's vistors">
-</a>
-
+<h4>Coding Activity: Last 7 days</h4>
 <!--START_SECTION:waka-->
-
+<h4>Coding Activity: Last 7 days</h4>
 ```text
 JavaScript   3 hrs 15 mins   ████████████▓░░░░░░░░░░░░   51.19 %
 Markdown     1 hr 58 mins    ███████▓░░░░░░░░░░░░░░░░░   30.95 %
@@ -89,5 +86,9 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:activity-->
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm generally available online</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/kkolade/kkolade/discussions/new"><strong> start a discussion here</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
+
+<a target="_blank" href="https://github.com/kkolade/kkolade/">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/kolakolade&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="kolakolade's vistors">
+</a>
 
 ![snake gif](https://github.com/kkolade/kkolade/blob/output/github-contribution-grid-snake.gif)
