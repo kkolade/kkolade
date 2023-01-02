@@ -79,11 +79,11 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 
   <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#3](https://github.com/kkolade/minimalist-todo-app/issues/3) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
-2. 🎉 Merged PR [#2](https://github.com/kkolade/minimalist-todo-app/pull/2) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
-3. 🗣 Commented on [#2](https://github.com/kkolade/minimalist-todo-app/issues/2) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
-4. 💪 Opened PR [#2](https://github.com/kkolade/minimalist-todo-app/pull/2) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
-5. 🎉 Merged PR [#1](https://github.com/kkolade/minimalist-todo-app/pull/1) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
+1. ❗️ Opened issue [#6](https://github.com/kkolade/minimalist-todo-app/issues/6) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
+2. ❗️ Opened issue [#5](https://github.com/kkolade/minimalist-todo-app/issues/5) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
+3. ❗️ Opened issue [#4](https://github.com/kkolade/minimalist-todo-app/issues/4) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
+4. ❗️ Opened issue [#3](https://github.com/kkolade/minimalist-todo-app/issues/3) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
+5. 🎉 Merged PR [#2](https://github.com/kkolade/minimalist-todo-app/pull/2) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
 <!--END_SECTION:activity-->
 
   </details>
