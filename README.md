@@ -58,18 +58,18 @@ const kolakolade = {
 
 <h4>Coding Activity: Last 7 days</h4>
 <!--START_SECTION:waka-->
-<h4>Coding Activity: Last 7 days</h4>
 ```text
 From: 25 December 2022 - To: 01 January 2023
 
 Total Time: 6 hrs 22 mins
 
-JavaScript   3 hrs 15 mins   ████████████▓░░░░░░░░░░░░   51.19 %
-Markdown     1 hr 58 mins    ███████▓░░░░░░░░░░░░░░░░░   30.95 %
-HTML         54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
-YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+JavaScript 3 hrs 15 mins ████████████▓░░░░░░░░░░░░ 51.19 %
+Markdown 1 hr 58 mins ███████▓░░░░░░░░░░░░░░░░░ 30.95 %
+HTML 54 mins ███▓░░░░░░░░░░░░░░░░░░░░░ 14.15 %
+YAML 5 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░ 01.41 %
+CSS 4 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░ 01.24 %
+JSON 4 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░ 01.07 %
+
 ```
 
 <!--END_SECTION:waka-->
@@ -96,3 +96,4 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 </a>
 
 ![snake gif](https://github.com/kkolade/kkolade/blob/output/github-contribution-grid-snake.gif)
+```
