@@ -7,6 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React.js%2C+React+Native%2C+Next.js;Node.js%2C+Typescript%2C+etc.)](https://git.io/typing-svg)
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="53" height="53" /></div>
+
 I collaborate with cross-cultural teams across multiple regions and time-zones</h3>
 
 <a target="_blank" href="https://linkedin.com/in/kolakolade/">
