@@ -77,3 +77,5 @@ const kolakolade = {
 <!--END_SECTION:activity-->
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm generally available online</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/kkolade/kkolade/discussions/new"><strong> start a discussion here</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
+
+https://github.com/kkolade/kkolade/blob/output/github-contribution-grid-snake.gif
