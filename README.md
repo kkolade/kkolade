@@ -57,11 +57,8 @@ const kolakolade = {
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkolade)](https://github.com/kkolade/github-readme-stats)
 
 <!--START_SECTION:waka-->
-<h4>Coding Activity: Last 7 days</h4>
 
 ```text
-
-
 From: 25 December 2022 - To: 01 January 2023
 
 Total Time: 6 hrs 22 mins
