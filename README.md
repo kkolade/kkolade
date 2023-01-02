@@ -58,7 +58,9 @@ const kolakolade = {
 
 <h4>Coding Activity: Last 7 days</h4>
 <!--START_SECTION:waka-->
-```text
+```
+text
+
 From: 25 December 2022 - To: 01 January 2023
 
 Total Time: 6 hrs 22 mins
