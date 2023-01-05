@@ -79,11 +79,11 @@ JSON         12 mins         ▒░░░░░░░░░░░░░░░░
 
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/kkolade/code-review-exercise/pull/1) in [kkolade/code-review-exercise](https://github.com/kkolade/code-review-exercise)
-2. ❗️ Opened issue [#6](https://github.com/kkolade/minimalist-todo-app/issues/6) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
-3. ❗️ Opened issue [#5](https://github.com/kkolade/minimalist-todo-app/issues/5) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
-4. ❗️ Opened issue [#4](https://github.com/kkolade/minimalist-todo-app/issues/4) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
-5. ❗️ Opened issue [#3](https://github.com/kkolade/minimalist-todo-app/issues/3) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
+1. ❗️ Closed issue [#18](https://github.com/kkolade/kolakolade.me/issues/18) in [kkolade/kolakolade.me](https://github.com/kkolade/kolakolade.me)
+2. ❗️ Closed issue [#15](https://github.com/kkolade/kolakolade.me/issues/15) in [kkolade/kolakolade.me](https://github.com/kkolade/kolakolade.me)
+3. ❗️ Closed issue [#10](https://github.com/kkolade/kolakolade.me/issues/10) in [kkolade/kolakolade.me](https://github.com/kkolade/kolakolade.me)
+4. 💪 Opened PR [#1](https://github.com/kkolade/code-review-exercise/pull/1) in [kkolade/code-review-exercise](https://github.com/kkolade/code-review-exercise)
+5. ❗️ Opened issue [#6](https://github.com/kkolade/minimalist-todo-app/issues/6) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
 <!--END_SECTION:activity-->
 
   </details>
