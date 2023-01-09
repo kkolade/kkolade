@@ -79,11 +79,11 @@ HTML         15 mins         ▒░░░░░░░░░░░░░░░░
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9](https://github.com/kkolade/minimalist-todo-app/issues/9) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
-2. 💪 Opened PR [#9](https://github.com/kkolade/minimalist-todo-app/pull/9) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
-3. ❗️ Opened issue [#2](https://github.com/shobeee/Awesome-books-Es6/issues/2) in [shobeee/Awesome-books-Es6](https://github.com/shobeee/Awesome-books-Es6)
-4. ❗️ Closed issue [#18](https://github.com/kkolade/kolakolade.me/issues/18) in [kkolade/kolakolade.me](https://github.com/kkolade/kolakolade.me)
-5. ❗️ Closed issue [#15](https://github.com/kkolade/kolakolade.me/issues/15) in [kkolade/kolakolade.me](https://github.com/kkolade/kolakolade.me)
+1. 💪 Opened PR [#1](https://github.com/kkolade/gitflow-exercise/pull/1) in [kkolade/gitflow-exercise](https://github.com/kkolade/gitflow-exercise)
+2. 🗣 Commented on [#9](https://github.com/kkolade/minimalist-todo-app/issues/9) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
+3. 💪 Opened PR [#9](https://github.com/kkolade/minimalist-todo-app/pull/9) in [kkolade/minimalist-todo-app](https://github.com/kkolade/minimalist-todo-app)
+4. ❗️ Opened issue [#2](https://github.com/shobeee/Awesome-books-Es6/issues/2) in [shobeee/Awesome-books-Es6](https://github.com/shobeee/Awesome-books-Es6)
+5. ❗️ Closed issue [#18](https://github.com/kkolade/kolakolade.me/issues/18) in [kkolade/kolakolade.me](https://github.com/kkolade/kolakolade.me)
 <!--END_SECTION:activity-->
 
   </details>
