@@ -81,9 +81,9 @@ HTML         15 mins         ▓░░░░░░░░░░░░░░░░
 
 1. 🗣 Commented on [#1](https://github.com/kkolade/leaderboard/issues/1) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
 2. 🗣 Commented on [#1](https://github.com/kkolade/leaderboard/issues/1) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
-3. 💪 Opened PR [#1](https://github.com/kkolade/leaderboard/pull/1) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
-4. 💪 Opened PR [#2](https://github.com/kkolade/gitflow-exercise/pull/2) in [kkolade/gitflow-exercise](https://github.com/kkolade/gitflow-exercise)
-5. 💪 Opened PR [#1](https://github.com/kkolade/gitflow-exercise/pull/1) in [kkolade/gitflow-exercise](https://github.com/kkolade/gitflow-exercise)
+3. 🗣 Commented on [#1](https://github.com/kkolade/leaderboard/issues/1) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
+4. 💪 Opened PR [#1](https://github.com/kkolade/leaderboard/pull/1) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
+5. 💪 Opened PR [#2](https://github.com/kkolade/gitflow-exercise/pull/2) in [kkolade/gitflow-exercise](https://github.com/kkolade/gitflow-exercise)
 <!--END_SECTION:activity-->
 
   </details>
