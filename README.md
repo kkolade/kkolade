@@ -79,11 +79,11 @@ Text         14 mins         ▓░░░░░░░░░░░░░░░░
 
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/kkolade/leaderboard/pull/3) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
-2. 🎉 Merged PR [#2](https://github.com/kkolade/leaderboard/pull/2) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
-3. 💪 Opened PR [#2](https://github.com/kkolade/leaderboard/pull/2) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
-4. 🎉 Merged PR [#1](https://github.com/kkolade/leaderboard/pull/1) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
-5. 🗣 Commented on [#1](https://github.com/kkolade/leaderboard/issues/1) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
+1. 🎉 Merged PR [#3](https://github.com/kkolade/leaderboard/pull/3) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
+2. 💪 Opened PR [#3](https://github.com/kkolade/leaderboard/pull/3) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
+3. 🎉 Merged PR [#2](https://github.com/kkolade/leaderboard/pull/2) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
+4. 💪 Opened PR [#2](https://github.com/kkolade/leaderboard/pull/2) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
+5. 🎉 Merged PR [#1](https://github.com/kkolade/leaderboard/pull/1) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
 <!--END_SECTION:activity-->
 
   </details>
