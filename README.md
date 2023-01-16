@@ -79,11 +79,11 @@ Text         14 mins         ▒░░░░░░░░░░░░░░░░
 
   <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#68](https://github.com/kkolade/tvmaze/issues/68) in [kkolade/tvmaze](https://github.com/kkolade/tvmaze)
-2. ❗️ Opened issue [#67](https://github.com/kkolade/tvmaze/issues/67) in [kkolade/tvmaze](https://github.com/kkolade/tvmaze)
-3. ❗️ Opened issue [#66](https://github.com/kkolade/tvmaze/issues/66) in [kkolade/tvmaze](https://github.com/kkolade/tvmaze)
-4. ❗️ Opened issue [#65](https://github.com/kkolade/tvmaze/issues/65) in [kkolade/tvmaze](https://github.com/kkolade/tvmaze)
-5. ❗️ Opened issue [#64](https://github.com/kkolade/tvmaze/issues/64) in [kkolade/tvmaze](https://github.com/kkolade/tvmaze)
+1. ❗️ Opened issue [#20](https://github.com/kkolade/tvmaze-capstoneProject-2/issues/20) in [kkolade/tvmaze-capstoneProject-2](https://github.com/kkolade/tvmaze-capstoneProject-2)
+2. ❗️ Opened issue [#19](https://github.com/kkolade/tvmaze-capstoneProject-2/issues/19) in [kkolade/tvmaze-capstoneProject-2](https://github.com/kkolade/tvmaze-capstoneProject-2)
+3. ❗️ Opened issue [#18](https://github.com/kkolade/tvmaze-capstoneProject-2/issues/18) in [kkolade/tvmaze-capstoneProject-2](https://github.com/kkolade/tvmaze-capstoneProject-2)
+4. ❗️ Opened issue [#17](https://github.com/kkolade/tvmaze-capstoneProject-2/issues/17) in [kkolade/tvmaze-capstoneProject-2](https://github.com/kkolade/tvmaze-capstoneProject-2)
+5. ❗️ Opened issue [#16](https://github.com/kkolade/tvmaze-capstoneProject-2/issues/16) in [kkolade/tvmaze-capstoneProject-2](https://github.com/kkolade/tvmaze-capstoneProject-2)
 <!--END_SECTION:activity-->
 
   </details>
