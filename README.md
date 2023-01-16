@@ -79,11 +79,11 @@ Text         14 mins         ▒░░░░░░░░░░░░░░░░
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/kkolade/leaderboard/pull/3) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
-2. 💪 Opened PR [#3](https://github.com/kkolade/leaderboard/pull/3) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
-3. 🎉 Merged PR [#2](https://github.com/kkolade/leaderboard/pull/2) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
-4. 💪 Opened PR [#2](https://github.com/kkolade/leaderboard/pull/2) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
-5. 🎉 Merged PR [#1](https://github.com/kkolade/leaderboard/pull/1) in [kkolade/leaderboard](https://github.com/kkolade/leaderboard)
+1. ❗️ Opened issue [#68](https://github.com/kkolade/tvmaze/issues/68) in [kkolade/tvmaze](https://github.com/kkolade/tvmaze)
+2. ❗️ Opened issue [#67](https://github.com/kkolade/tvmaze/issues/67) in [kkolade/tvmaze](https://github.com/kkolade/tvmaze)
+3. ❗️ Opened issue [#66](https://github.com/kkolade/tvmaze/issues/66) in [kkolade/tvmaze](https://github.com/kkolade/tvmaze)
+4. ❗️ Opened issue [#65](https://github.com/kkolade/tvmaze/issues/65) in [kkolade/tvmaze](https://github.com/kkolade/tvmaze)
+5. ❗️ Opened issue [#64](https://github.com/kkolade/tvmaze/issues/64) in [kkolade/tvmaze](https://github.com/kkolade/tvmaze)
 <!--END_SECTION:activity-->
 
   </details>
