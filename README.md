@@ -59,16 +59,16 @@ const kolakolade = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 January 2023 - To: 15 January 2023
+From: 09 January 2023 - To: 16 January 2023
 
-Total Time: 14 hrs 25 mins
+Total Time: 13 hrs 26 mins
 
-JavaScript   9 hrs 2 mins    ███████████████▓░░░░░░░░░   62.55 %
-HTML         1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-SCSS         1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-Markdown     49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-JSON         46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-Text         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+JavaScript   8 hrs 55 mins   ████████████████▓░░░░░░░░   66.21 %
+SCSS         1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+HTML         1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+JSON         47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
