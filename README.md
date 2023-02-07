@@ -76,11 +76,11 @@ JavaScript   34 mins         █████▓░░░░░░░░░░░
 
   <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#20](https://github.com/banzaman/capstone-2/issues/20) in [banzaman/capstone-2](https://github.com/banzaman/capstone-2)
-2. ❗️ Opened issue [#19](https://github.com/banzaman/capstone-2/issues/19) in [banzaman/capstone-2](https://github.com/banzaman/capstone-2)
-3. ❗️ Opened issue [#18](https://github.com/banzaman/capstone-2/issues/18) in [banzaman/capstone-2](https://github.com/banzaman/capstone-2)
-4. ❗️ Opened issue [#17](https://github.com/banzaman/capstone-2/issues/17) in [banzaman/capstone-2](https://github.com/banzaman/capstone-2)
-5. ❗️ Opened issue [#16](https://github.com/banzaman/capstone-2/issues/16) in [banzaman/capstone-2](https://github.com/banzaman/capstone-2)
+1. ❗️ Opened issue [#7](https://github.com/flemton/leaderboard/issues/7) in [flemton/leaderboard](https://github.com/flemton/leaderboard)
+2. ❗️ Opened issue [#20](https://github.com/banzaman/capstone-2/issues/20) in [banzaman/capstone-2](https://github.com/banzaman/capstone-2)
+3. ❗️ Opened issue [#19](https://github.com/banzaman/capstone-2/issues/19) in [banzaman/capstone-2](https://github.com/banzaman/capstone-2)
+4. ❗️ Opened issue [#18](https://github.com/banzaman/capstone-2/issues/18) in [banzaman/capstone-2](https://github.com/banzaman/capstone-2)
+5. ❗️ Opened issue [#17](https://github.com/banzaman/capstone-2/issues/17) in [banzaman/capstone-2](https://github.com/banzaman/capstone-2)
 <!--END_SECTION:activity-->
 
   </details>
