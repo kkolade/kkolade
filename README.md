@@ -77,11 +77,11 @@ JSON         6 mins          █░░░░░░░░░░░░░░░░
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#26](https://github.com/Uthmanbello/capstone2/pull/26) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
-2. 💪 Opened PR [#26](https://github.com/Uthmanbello/capstone2/pull/26) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
-3. 🎉 Merged PR [#23](https://github.com/Uthmanbello/capstone2/pull/23) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
-4. 💪 Opened PR [#23](https://github.com/Uthmanbello/capstone2/pull/23) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
-5. ❗️ Opened issue [#7](https://github.com/flemton/leaderboard/issues/7) in [flemton/leaderboard](https://github.com/flemton/leaderboard)
+1. 🗣 Commented on [#27](https://github.com/Uthmanbello/capstone2/issues/27) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
+2. 🎉 Merged PR [#26](https://github.com/Uthmanbello/capstone2/pull/26) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
+3. 💪 Opened PR [#26](https://github.com/Uthmanbello/capstone2/pull/26) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
+4. 🎉 Merged PR [#23](https://github.com/Uthmanbello/capstone2/pull/23) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
+5. 💪 Opened PR [#23](https://github.com/Uthmanbello/capstone2/pull/23) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
 <!--END_SECTION:activity-->
 
   </details>
