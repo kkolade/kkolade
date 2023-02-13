@@ -77,11 +77,11 @@ JSON         8 mins          ░░░░░░░░░░░░░░░░░
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#32](https://github.com/Uthmanbello/capstone2/pull/32) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
-2. 💪 Opened PR [#32](https://github.com/Uthmanbello/capstone2/pull/32) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
-3. 🗣 Commented on [#31](https://github.com/Uthmanbello/capstone2/issues/31) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
-4. 🗣 Commented on [#30](https://github.com/Uthmanbello/capstone2/issues/30) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
-5. 🗣 Commented on [#27](https://github.com/Uthmanbello/capstone2/issues/27) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
+1. 💪 Opened PR [#1](https://github.com/kkolade/math-magician/pull/1) in [kkolade/math-magician](https://github.com/kkolade/math-magician)
+2. 🎉 Merged PR [#32](https://github.com/Uthmanbello/capstone2/pull/32) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
+3. 💪 Opened PR [#32](https://github.com/Uthmanbello/capstone2/pull/32) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
+4. 🗣 Commented on [#31](https://github.com/Uthmanbello/capstone2/issues/31) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
+5. 🗣 Commented on [#30](https://github.com/Uthmanbello/capstone2/issues/30) in [Uthmanbello/capstone2](https://github.com/Uthmanbello/capstone2)
 <!--END_SECTION:activity-->
 
   </details>
