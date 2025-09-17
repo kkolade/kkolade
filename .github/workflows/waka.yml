@@ -1,9 +1,43 @@
-- name: WakaTime
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics.plugin.wakatime.svg
-    token: NOT_NEEDED
-    base: ""  # This can be removed or set to a valid value
-    plugin_wakatime: yes
-    plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-    plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+name: WakaTime Metrics
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update WakaTime metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: ${{ secrets.GH_TOKEN || github.token }}
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
+      - name: Commit and push changes
+        if: github.event_name != 'pull_request'
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add metrics.plugin.wakatime.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update WakaTime metrics"
+          git push
+
+      # Optional: Add step to commit changes if not using the built-in commit option
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add -A
+          git commit -m "Update WakaTime metrics" --allow-empty
+          git push
