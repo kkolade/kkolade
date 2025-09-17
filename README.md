@@ -54,7 +54,7 @@ const kolakolade = {
 
 ![kola's github stats](https://github-readme-stats.vercel.app/api?username=kkolade&show_icons=true&icon_color=141414&bg_color=ffffff&hide_border=true&line_height=25&text_color=141414&hide_title=true&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkolade&layout=compact)](https://github.com/kkolade/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkolade)](https://github.com/kkolade/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkolade)](https://github.com/kkolade/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
