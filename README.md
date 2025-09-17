@@ -5,7 +5,7 @@
 <h3 align="left">I help Startups and Small biz to bring their vision to reality, be it a Prototype, MVP or Product ideas. I use Ruby, Ruby-on-rails and JavaScript technologies and frameworks like:
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React.js%2C+React+Native%2C+Next.js;Node.js%2C+Typescript%2C+Webpack;Jest%2C+Mocha%2C+Cypress)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React.js%2C+React+Native%2C+Next.js;Node.js%2C+Typescript%2C+Webpack;Jest%2C+Mocha%2C+Cypress)](https://git.io/typing-svg)
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="53" height="53" style="background-color: #8ED6FB; border-radius: 50%"/><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="53" height="53" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="53" height="53" /></div>
 
@@ -54,7 +54,7 @@ const kolakolade = {
 
 ![kola's github stats](https://github-readme-stats.vercel.app/api?username=kkolade&show_icons=true&icon_color=141414&bg_color=ffffff&hide_border=true&line_height=25&text_color=141414&hide_title=true&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkolade&layout=compact)](https://github.com/kkolade/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkolade)](https://github.com/kkolade/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkolade)](https://github.com/kkolade/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
